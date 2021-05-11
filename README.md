@@ -1,5 +1,6 @@
 # linkedlists-sum-numbers
 How do you find the sum of two linked lists using Stack?
+
 Example: 9973 in llist1 (9->9->7->3->None), 856 in llist2 (8->5->6->None)
 sum ==> 10829
 
